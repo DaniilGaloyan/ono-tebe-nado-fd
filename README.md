@@ -1,1 +1,0 @@
-https://github.com/DaniilGaloyan/ono-tebe-nado-fd
